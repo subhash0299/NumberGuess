@@ -27,7 +27,7 @@ Ensure you have Python 3.x installed on your machine. You will also need the **T
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/subhash0299/NumberGuessingGame.git
+   git clone https://github.com/subhash0299/NumberGuess.git
    ```
 
 2. Navigate to the project directory:
@@ -72,4 +72,4 @@ This project is open source and available under the MIT License. See the [LICENS
 
 Enjoy playing the **Number Guessing Game**! 🎮
 ```
-nse**: Information on the license for the project (MIT is a common open-source license).
+
